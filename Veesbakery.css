@@ -105,7 +105,7 @@ ul li:hover{
 }
 
 #logo-img {
-  margin-left: 10rem;
+  margin-left: 0;
 }
 .name { 
   display: flex;
@@ -170,6 +170,7 @@ input[type=text], select, textarea {
 .footer {
 	background-color: purple;
 	padding: 2rem 0;
+  padding-left: 30px;
 	color: white;
 }
 
